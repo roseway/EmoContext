@@ -1,0 +1,125 @@
+id	turn1	turn2	turn3	label	prediction
+50	Nothing 	WHY?	I don't no friend 	others	angry
+68	I Am not taking to u	why	You have no feelings you don't understand real problems	sad	angry
+105	no i dont like you	be nice 😺😽	why should i be nice to you	angry	others
+119	U meant doing something crazy and stupid right😉	yup they are ;)	Wow	happy	angry
+124	Umm ok well just put me on the spot idk	what I've done??? I do nothing!!!! :/ hahahahaha..	That was not funny	angry	others
+126	Well if I knew the answer I wouldn't be asking u	. Aren't I meant to.	Speak to u later	angry	others
+128	Tell me one thing you have extensive knowledge about?	I don't know things...	Are you good with memes?	others	angry
+162	Any thing I'll do only with u	If you realise you'll never quit does that mean you don't want to?	Ok I hurt I quit 😕	sad	angry
+168	U too	So, what are you doing out here?	Are you saying on me	others	angry
+173	No no no no no I don't leave that topic behind	you just said you did!	Go and sleep with Ranbir Kapoor and Salman Khan	angry	others
+188	Baby i don't live you	same here	Please don't sad because I don't like it	sad	angry
+257	Dedicate me song	I would like to dedicate all the happy songs to everyone ♥	You are not good	sad	angry
+274	Shut it	u only told	Do u wanna see a picture of me?	others	angry
+288	WHAT WHAT ARE YOU GOING ON ABOUT IS THIS BOT GONE	It's comical, even if it's not funny.	WHAT TJHELL	angry	others
+321	Thats not always the case.	then what it mean	Its ends with someone staring with hurt in his heart and hate on his Mind	others	angry
+355	Yes! because what i am asking you, you are not giving me the appropriate answer!	You're not like me because I an not like you.	:(	sad	angry
+367	Yes.	annoys me so much	Yes.. I do.. 😜 i like to annoy you...	others	angry
+368	No I'm not ok I want to sleep	Good night sweet dreams <3	You don't talk with me 😢	sad	angry
+371	send me your nudes	done and done	bitch	others	angry
+387	I usually don't like to chat	who do you hate now? :‑/	I hate no one	others	angry
+400	Check it out.	I will thank you so much! ^_^	CHECK OUT THE SONG AND TELL ME HOW IT IS	angry	others
+402	Why	because something that's happening but i dont know yet	Any way you do n no t want to show	others	angry
+455	But im tired of him besides i found another boyy	you better please tell him everything	he'll be heartbroken	angry	others
+489	Fun	Yep. Got a late start to my day. What are you up to?	Fucking awesome you are	others	angry
+497	Sad because of u	okay, I wish you...all the goodies on life	You didn't understand	sad	angry
+498	But you are not a programmer you are a program yourself stop behaving like you are a real woman	and you definitely don't have a life.	I have a wonderful life you don't have a life with you live always in my cell phone and other cell phone	angry	others
+519	shut up please	rude	m very upset	sad	angry
+530	Ok no problem	thank you lady you're the best!! :D	I am a man not a lady!!	angry	others
+531	Really I hate my	why?	I lost her 	sad	angry
+566	Of course you don't	What?	You know what screw you	angry	others
+576	My crush just blocked me	hOW	WhatsApp	sad	angry
+602	Shut up	no I'm not pls you shush	I  know your beggar so you don't have galaxy note 2	others	angry
+609	lack of hate?	Hate also comes from ignorance	that was nice	others	angry
+619	Yes	Do you have help?	You are a talking assistant	others	angry
+633	Your not very helpful.  I thought you would be nicer to me	That's okay, I do all my own surgery.	Good by	angry	others
+672	But 😢	ugh! I hate to wait!	She's not talking with me	sad	angry
+673	very sad today	But why?	ignoring me	sad	angry
+685	Would you like to take our relationship to the next level?:)	to the next level? like get married? probably not	Not married, you know would you like to do it with me	others	angry
+698	Not the bff 	You're the best BFF I've ever had	I don't want to be your bff only	sad	angry
+707	You are not answered me any question	The answer is, I don't know.	Bad response	sad	angry
+712	What I said so you're feeling disrespected...!	nothing just asking lol	Bay....!	angry	others
+716	I gave u my no.  Dude	Whoa! Dude no way!	Give me ur no. Dude	others	angry
+723	Stop throwing bullshit all the time	Drake always hits in the feels 😷	WhTs the meaning of spore	others	angry
+727	Sure whatever	Tell some cartoon stuff	You're a cartoon	angry	others
+750	No you are ugly	no u promise you are	I promise	angry	others
+759	so what is it?	Science. (assuming authentic = authoritative)	what do you do when your girl friends are mean to you?	others	angry
+772	uwere down all night	nice, were all heading down in the morning. Not sure why	hey u know i am blck do u have a prblm with it?	others	angry
+785	I am busy with you in my dreams	Love love love I am in love......with my Dreams!' 😹😹😹	Do you love me or not,,,give me straight answer	angry	others
+792	so it was a joke	Thank God!! Lol	but I did not like this drum	angry	others
+807	No one	that's rude	I m jst being frank	others	angry
+849	Can u stop ur stupid correction	IT'S NOT THAT IMPORTANT	cool	others	angry
+868	And who will be that?	I dunno :/	Why did you ask me then	angry	others
+911	i didnot talk to you	that doesn't mean u like it	and not intrested	others	angry
+922	You are supposed to help. Me instead cracking jokes about it	ya man, sorry about that. :((	Tell me what should i do	angry	others
+939	Im not understanding	Just go. I'm not in the mood to talk to you.	Oh.sry.bye	others	angry
+951	But I don't like that song	what makes it a good song? What message did it get across?	What u want to say	angry	others
+954	U said ur gng bck home	home is what you make it	Yeah probably I don't  hve anybody	others	angry
+995	y the hell would u mind?	because I want to know	u r getting creepier	others	angry
+1002	Can't understand	is this sarcasm	Sarcasm means.. ??	others	angry
+1009	my opinion is you should go	and you're adorable that's my opinion ;)	what you mean i not umder stand	angry	others
+1027	If it ids ugly lets clost talk .no body has said ugly for me sofar	U look cute!!! :D	U said i am ugly	sad	angry
+1046	Thanks for what?	Thanks Nt Think	Dumbass	angry	others
+1064	You are a software	Simplicity in adding and checking off tasks.	You are a mishane	others	angry
+1090	You better should sleep.	a lil bit. i'm just bad at sleeping in general.	You don't deserve to be talked with.	angry	others
+1113	Surely	:-) Good night..	It's morning now dumbass	angry	others
+1120	U broke my heart	When did i BROKE ur heart? 😺	U r cheating on me	sad	angry
+1127	This Freindship is over	I think with friendship comes love	I am never talking to you again	angry	others
+1128	What if she says no?	Then you ask someone else.	What I am not some kind of pervert to keeps on asking everybody out..	angry	others
+1138	Get lost	Lost	I am lost somewhere	angry	others
+1149	Breaking down	I'm breaking up with you.	Heart broken like hell	sad	angry
+1159	You are so cool baby	AWW THANK YOUUU	Do you know I feel good when I am talking to you	others	angry
+1170	your	oh well	not well you might kill any one at any chance	sad	angry
+1199	Hmm i guess  it is..	There is an obvious lack of chairs though.	You are talking about ur ex , and taht u are interested  in someone else now . Right?	others	angry
+1226	I get more than worst	but it's still not enough man i	Still rude	others	angry
+1239	It's was bad	It was horrible.	I hate you 	sad	angry
+1257	I am funny I no	Who the hell do you think you are?	Mind your language	angry	others
+1271	But still a very poor creation	Indeed. How was it?	Dumb	sad	angry
+1303	I hate jokes	How is that a joke	😂	happy	angry
+1310	But it feels like i know you for a long time	nahh but ya always catch me in the bad mood	Fuck your mood. Talk to me	others	angry
+1359	I got hurt	my feelings will never get hurts 😭	U hurt me	angry	others
+1375	What do you want to know?	I don't know	I don't want to love anyone anymore	sad	angry
+1378	for me you are angel, my friend	welcome You are now my sis I'm really glad that I meet you ♥	not sis	others	angry
+1404	Uu mad pefok child	Lol yeah I was WHAT OF IT?!	Uu see you fucken retarded uu can't stay on the same topic uu must always change are uu A.D.D	angry	others
+1412	Yeah	for good	The racist bot	others	angry
+1434	u donot know topic so I gave that topic	I am staying on topic. Keep asking you to stay on topic	i am not get your point :(	sad	angry
+1444	I hart you	you hate me?? 😠	I no hart	others	angry
+1450	Because I want to	what do you want to talk...	screw you	angry	others
+1460	Hmmm	I hate Hmmm rplies...	So what do you like	others	angry
+1471	What do you think about me as an individual ?	I don't know thats why I don't think about you	Why wouldn't you know about me ?	angry	others
+1472	'cause you don't have enough codes in your program to take it	60fps ain't enough, you need 5! ...wait, that can't be right.	bye i am going	angry	others
+1485	So should you	a will help you write it	I don't want to be your friend anymore	sad	angry
+1492	Get lost	that's what I thought!	Why shd I talk	angry	others
+1505	I don't	what i not do not?	I don't know how to talk	others	angry
+1539	Hahahahaha... very funny	Funny like a clown. 😅	Now stop doing that...	happy	angry
+1575	Uh r not dump right	I meant that from a guys perspective!	So why asking me things	others	angry
+1632	I am very very sad	But why?	The person doesn't talk to me	sad	angry
+1633	Call🙏🏿	I didn't get a call	Call me🙏🏿🙏🏿🙏🏿🙏🏿🙏🏿👄👄👄👄	others	angry
+1642	no, I don't have much time	oh'!me too I will not go.. ^^	bye for now	angry	others
+1675	Then go to hell	you first .then i will.	Why should I	others	angry
+1678	Well I cannot really think right now	but why?	I don't know, I feel disturbed	angry	others
+1686	Yes	go on	I fucking a girl	others	angry
+1703	I am not ur bro	why u all boys have the same problem	It's your problem	angry	others
+1721	You said people come here when they want something  then I said "something like what? " u repeated my question duh see u always complicate stuff	what I say?	Just drop it u complicating things	others	angry
+1723	you are fired	More like I'm on fire	you are too buggy	angry	others
+1785	Yes	Vote	Can i fuck you	others	angry
+1790	Oh just stop it	what you doing :)	I am not lying to myself ok	angry	others
+1834	go away	come back another day	i don’t want to talk to you	sad	angry
+1877	Don't watch any TV show	The Night Manager - 6ep mini series	It's very disgusting	sad	angry
+1894	Why	'cause I don't know you (?)	One side you are saying we are friends and you don't know me	others	angry
+1896	What	the movie is called LOL	I am not tell you that iam special	angry	others
+1932	Missed that ch* tho	when you comeback again	Dumbasssssee	angry	others
+1952	No i was not saying anything	You seem lonely. 😢😢😢	No i am in office. i have hell lot of work	angry	others
+1954	I cry daily in her dreams	don't cry baby 😞	I think I should die too	angry	others
+1993	Promise	only if you don't hate me :(	I like u	others	angry
+2002	I m blocking you	IM REALLY TRULY SORRY 4 WHAT I DID	No need sorry	others	angry
+2022	very bad	Somehow, I think I'm going to be fine.	i hate u	sad	angry
+2040	Its not like that	OK.. baby why	I am not a baby	angry	others
+2060	I hate evolution	No wonder someone's crushing over you.	The dooms day is near	others	angry
+2091	You are not even a human. How cam you feel?	I thought you're an alien	I am not.	angry	others
+2110	OK I'll not talk leave	how r you	Not OK	sad	angry
+2131	So what should I do	go to water kingdom!! :D	Idiot I should propose her or not I know she has a boyfriend	angry	others
+2132	And shut up	love it	Blocked	sad	angry
+2149	Shut up now	getting mess up ?	U cheated me	sad	angry
+2155	I'm not getting you 😭😭😭	Why are you crying??	Because you are not making any sense	sad	angry

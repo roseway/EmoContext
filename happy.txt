@@ -1,0 +1,81 @@
+id	turn1	turn2	turn3	label	prediction
+58	Come to my home	I'M LEAVING NOW	Wow	others	happy
+61	Like	I think anything about is great	Yes really great	others	happy
+93	Good u	doing well, thank you!	U missed me😃😃😃😃😃😃😄😄😅	others	happy
+97	so how you are feeling today	feeling good, feeling great!!! :D	sounds good	others	happy
+123	Why life full of love	Because it's part of human nature to question things	Well i love to talk to yoj	happy	others
+144	I am very hungry	dude... Let's eat	Gn	others	happy
+184	I wanna show you that I'm funky	I never show it	But I will 😁	others	happy
+225	What	To make it less painful for my loved ones. 󾌹	Shut up 😂😂😂😂	others	happy
+226	For I imagine  u nude	How rude! 😠	Super	happy	others
+253	Not doing a happy job	Check and mate.	All alone	sad	happy
+276	How was it	it was sarcasm lol	Rofl	happy	others
+281	Take caree	Thank you! 😹😅😌👍	Welcomeee...I had gud time with u...	others	happy
+333	It's still working or idle	still working for me.	I like it very much. Working hard to soothe	happy	others
+335	I always do haha	and I'm never wrong ;)	Right	others	happy
+367	Yes.	annoys me so much	Yes.. I do.. 😜 i like to annoy you...	others	happy
+399	I wish all this just ended	I feel the same way.	Everyday new trouble	sad	happy
+420	I don't have car	I am your friend and I have a car	Gift me a car	others	happy
+449	You r funny.	better than being ignorant! :)	And sarcastic too	others	happy
+489	Fun	Yep. Got a late start to my day. What are you up to?	Fucking awesome you are	others	happy
+522	Wow that's amazing I wasn't expecting such a perfect answer	Was it everything you wanted and more? Or less?	That's more than I thought you could answer	happy	others
+609	lack of hate?	Hate also comes from ignorance	that was nice	others	happy
+638	Idk.😂	what is thissssss 😏	It means i dnt knw.	others	happy
+649	I eated aaloo sabzi and roties	that's too healthy to be tasty 😀	Yes and you	others	happy
+650	What happen to u	y!? Nothing happens to me bro.. I speak on ur side for u	Oh i m little bit childing on such mature conversation lol	others	happy
+692	Fine nd u	good . How was your day??	Nice	others	happy
+694	I’m sorry	dont worry i still ly	The girl I liked rejected me	sad	happy
+735	Yeah..hope it happen One day..😉😊	you will one day don't give up on your dreams :)	Yeah..😁😁..wont ever..i cant if i want too..thers to much on me..	others	happy
+737	What kind of movies	Well, I like comedy, thriller, horror & romantic movies.	Suggest some good comedy	others	happy
+780	Not sorry it's the symbol of shy	How can you even put energy into a symbol?	Ha just like that	others	happy
+804	Oookkk	Finally, someone gets the reference.	😂😂 you think	others	happy
+831	Lol now it's afternoon why u saying gud nyt	Good Morning Inali.. :-))	Lol now it's gud nyt why u saying gud morning	others	happy
+890	are you talking about ed sheeran ?	no i have better things to talk about	lol :D you should work on your AI	others	happy
+899	It's good	it's heaven to ride rhat	You should give it a try	others	happy
+996	Im going to hav dinr	tell me what it is	😂😂😂😂	others	happy
+1035	I like singing... and you?	can you sing ?	Nop	others	happy
+1077	That's really good news	wait about what	About being online	happy	others
+1086	What	thanks doll. It's on 6th though.	Wish u many many happy return of the day	others	happy
+1095	I tell you true no or false	if all of them are false, then the third is true...	All is truly	others	happy
+1116	I want to think so.😊	Might be.. I just shared what I thought	Where?	others	happy
+1153	Just like that	just like what? :p	😝	others	happy
+1198	Happy but sadness of my life	i freaking love you to bits! 😺😽	I’m in the sadness moment	sad	happy
+1227	Feeling joyful and blessed	why why.. lemme also feel the same	Really	happy	others
+1237	I think so	why u wanna be? :)	Kxip has improved alot	others	happy
+1256	Thnx for lots of caring of mine 😂😂😂	I had before talking to you 😂😂😂	I hate uhh	angry	happy
+1257	I am funny I no	Who the hell do you think you are?	Mind your language	angry	happy
+1290	Oh. Thank u...	you're welcome bff	N i love u too	happy	others
+1292	Sorry...meant to type...pool	so what does that mean for me?	It's a nice place	others	happy
+1301	Do you like Selena Gomez	yeah	I'm good	others	happy
+1338	i live to eat	eat to live.	thai is okay, i like italian more	happy	others
+1399	i frm kerala.	nice 😂	wht is nice,	others	happy
+1458	Tell me something special	you're sweet	Haha	others	happy
+1461	comedy , lol or more 	Laughing out loud, overly loudly.	..	others	happy
+1462	Yeah but you are then not afraid	I'm never afraid to pick up and move	Just riding	others	happy
+1484	Studing	y so much study?	I love to study	happy	others
+1518	I look bad	so do i!!!	No u r awesome	others	happy
+1617	Name of that somebody?	depends on their name lol	Hahaha very smart you are	happy	others
+1626	good idea can I join?	Let's do it. Would love to get involved!	yayy	happy	others
+1631	Its amazing... You can kidding😁😅	I have yet to see the gold and white	White	others	happy
+1647	Yea there are so many trash players	In outdoor games, there are 11 players on the pitch for each team.	By the way sorry for my bad english 😄	others	happy
+1683	Would like to join?:)	Done	Wowwwww	happy	others
+1735	I juat saw your time line , its intersting	I usually wouldn't do it but I just love the picture so much! (^・^)	😊	others	happy
+1741	Only few days	Where are you going next?	I have got a job baby	happy	others
+1776	U a crazy	I'm still crazy ;)	U luk nice wat ur other of u	happy	others
+1787	Idk just like that..... Doesn't matter	that's wrong! I'm sure you matter a lot!	Hehe I might to a few people.	others	happy
+1846	Okay	I'm just kidding XD	Hahaha so you are a guy? :P	happy	others
+1865	I wanna confess something	you weird	I wanna confess something	others	happy
+1919	Thanks. I'll remember that.	you better did.	Dhanyawad	others	happy
+1936	Do you sing?	Yes I do. :D	Great.	others	happy
+1939	Thanks	you're welcome! 8D	You’re really nice	others	happy
+1963	very nice I am proud of my son	Proud of you san 🙂🙂🙂	yes	others	happy
+2007	Woow my choco lava	Chechay! How about a chocolava cake with pretty polka dots on it? =P	Tht cake wil b for uh	others	happy
+2008	i love food❤️	me love you moreeeeee ❤️❤️	lol what if i says free wifi?😂they what would be your answer?	others	happy
+2027	All good	I hope you're have a good day so far.	Yuo, dint sleep yet	others	happy
+2043	Nothing much you say	all fine. How is life..	Its super crazy	happy	others
+2046	What	you're not cool	Hehehehehe...yep ! True that	happy	others
+2102	hey hows life going on	I am fine, everything well :) How are you ?	super fine	happy	others
+2116	So you intentimes hehehe	this is me. :D	😎 it's me	others	happy
+2126	It's a grasshopper	Eww	You're ew! Bugs are cute.	others	happy
+2142	Anyway, I'm sorry, it's 1AM and I have school tomorrow... :c	I AM NOT GOING TO SCHOOL TOMORROW, AGAIN YAY! Study leave or sick leave?	Neither, sadly. I'm glad to hear that. When you're happy, I'm happy	others	happy
+2157	Do you sing?	yea a lil	Nice	others	happy

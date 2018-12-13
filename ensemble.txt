@@ -1,0 +1,210 @@
+id	turn1	turn2	turn3	label	prediction
+40	Plz I just want listen ur voice..!!😩😩	well goodness! Listen to some music then eh? Hehe 😤	K then bye forever	sad	others
+58	Come to my home	I'M LEAVING NOW	Wow	others	happy
+68	I Am not taking to u	why	You have no feelings you don't understand real problems	sad	angry
+74	I have no brain like you	The Brain - Just Be Yourself	he he he	happy	others
+77	How much you weigh?	17 130lbs wow i feel fat :(	:(	sad	others
+93	Good u	doing well, thank you!	U missed me😃😃😃😃😃😃😄😄😅	others	happy
+97	so how you are feeling today	feeling good, feeling great!!! :D	sounds good	others	happy
+105	no i dont like you	be nice 😺😽	why should i be nice to you	angry	others
+113	Im kindhearted although they hurt me	they wont! Coz they never care for u at all...	Ok	others	sad
+115	I am not leaving dont worry 😅	just kidding.. Don't cry. I'll be sad if you do :'‑(	No noo nooo i wont let you be sad you are my best friend 😍	others	sad
+123	Why life full of love	Because it's part of human nature to question things	Well i love to talk to yoj	happy	others
+124	Umm ok well just put me on the spot idk	what I've done??? I do nothing!!!! :/ hahahahaha..	That was not funny	angry	others
+126	Well if I knew the answer I wouldn't be asking u	. Aren't I meant to.	Speak to u later	angry	others
+137	a last ball 6 was superb	it was sunbeam all over again	talk about today match	happy	others
+145	Telugu talk to You?	ok seems like you r busy	Happy	happy	others
+173	No no no no no I don't leave that topic behind	you just said you did!	Go and sleep with Ranbir Kapoor and Salman Khan	angry	others
+178	Sorry	oh it's fine!!!	Tomorrow is special day because its birthday of that girl who is most important in my life	others	sad
+184	I wanna show you that I'm funky	I never show it	But I will 😁	others	happy
+225	What	To make it less painful for my loved ones. 󾌹	Shut up 😂😂😂😂	others	happy
+226	For I imagine  u nude	How rude! 😠	Super	happy	angry
+232	Pop	why?	I just love it	happy	others
+233	i like that you're so positive	always helps man!	cuz i feel down in the dumps right now	sad	others
+247	I want more	never enough	If you don't send me I will leave this group	angry	others
+250	Just tell	tell you what. I can't tell you if you don't tell me!	It will be amazing	happy	others
+263	Nobody would be really drinking in that shop	well, you would think not but......	??	others	sad
+274	Shut it	u only told	Do u wanna see a picture of me?	others	angry
+276	How was it	it was sarcasm lol	Rofl	happy	others
+281	Take caree	Thank you! 😹😅😌👍	Welcomeee...I had gud time with u...	others	sad
+288	WHAT WHAT ARE YOU GOING ON ABOUT IS THIS BOT GONE	It's comical, even if it's not funny.	WHAT TJHELL	angry	others
+290	☺️☺️	Welcome , <3 btw you are so pretty !	Thank you so much	happy	others
+292	I am not telling you	I'm just not in your dp or anything	Why you want to be in my dp?	angry	others
+321	Thats not always the case.	then what it mean	Its ends with someone staring with hurt in his heart and hate on his Mind	others	angry
+333	It's still working or idle	still working for me.	I like it very much. Working hard to soothe	happy	others
+355	Yes! because what i am asking you, you are not giving me the appropriate answer!	You're not like me because I an not like you.	:(	sad	angry
+367	Yes.	annoys me so much	Yes.. I do.. 😜 i like to annoy you...	others	angry
+371	send me your nudes	done and done	bitch	others	angry
+372	Just lying on bad ..wbu.?	good, i am just doing nothing	U mean exam..?	others	sad
+387	I usually don't like to chat	who do you hate now? :‑/	I hate no one	others	angry
+400	Check it out.	I will thank you so much! ^_^	CHECK OUT THE SONG AND TELL ME HOW IT IS	angry	others
+403	Yeah was lonely	it was good I guess	Nope	sad	others
+409	Hw did u do	Did well :) You?	Not well as uu	sad	others
+411	so wat are u doing?	nothing much vaccations on..wbu?	in office yaar :(	sad	others
+416	Yes a lot exciting things	I don't wanna watch it then	Okay sure	happy	others
+444	Love you 😻😻😻	Meow 😉😉	Love you 😍😘😭	others	sad
+445	Ashish said he loves you	HE BLOCKED ME	Really	others	sad
+449	You r funny.	better than being ignorant! :)	And sarcastic too	others	happy
+455	But im tired of him besides i found another boyy	you better please tell him everything	he'll be heartbroken	angry	sad
+489	Fun	Yep. Got a late start to my day. What are you up to?	Fucking awesome you are	others	happy
+498	But you are not a programmer you are a program yourself stop behaving like you are a real woman	and you definitely don't have a life.	I have a wonderful life you don't have a life with you live always in my cell phone and other cell phone	angry	others
+521	Yes of course	you cannot be serious!!1	Iam not serious	others	sad
+522	Wow that's amazing I wasn't expecting such a perfect answer	Was it everything you wanted and more? Or less?	That's more than I thought you could answer	happy	others
+530	Ok no problem	thank you lady you're the best!! :D	I am a man not a lady!!	angry	others
+536	Do you know that mean	dont take it so seriously	Shit	angry	others
+544	Well my bad	You weren't	Let's do that	others	sad
+566	Of course you don't	What?	You know what screw you	angry	others
+570	I am too busy	after	:(	sad	others
+579	they betrayed me. they cheated me	THEY MAKE ME CRY	they always mock at me. It seems I am really stupid. they always hurt me	angry	sad
+586	You are irritating	Hmmm... I know. What's new?	Your nt a nice friend	angry	happy
+602	Shut up	no I'm not pls you shush	I  know your beggar so you don't have galaxy note 2	others	angry
+609	lack of hate?	Hate also comes from ignorance	that was nice	others	angry
+611	No I'm dude	No one cares that you don't care.	I'm so sorry about that	others	sad
+633	Your not very helpful.  I thought you would be nicer to me	That's okay, I do all my own surgery.	Good by	angry	others
+663	I didn't ask you that... You failed	I didn't ask you, your opinion	Bye	angry	others
+683	Chat with you	ok what is ur name?	I wanna suck you	angry	others
+692	Fine nd u	good . How was your day??	Nice	others	happy
+693	Sorry	Its ok..	I had exams	others	sad
+698	Not the bff 	You're the best BFF I've ever had	I don't want to be your bff only	sad	others
+712	What I said so you're feeling disrespected...!	nothing just asking lol	Bay....!	angry	others
+715	more	Whaaat?	comedy , lol or more 	happy	others
+727	Sure whatever	Tell some cartoon stuff	You're a cartoon	angry	others
+734	I didn't yet ;)	I know, where were you?	Still at work :(	sad	others
+785	I am busy with you in my dreams	Love love love I am in love......with my Dreams!' 😹😹😹	Do you love me or not,,,give me straight answer	angry	sad
+792	so it was a joke	Thank God!! Lol	but I did not like this drum	angry	others
+804	Oookkk	Finally, someone gets the reference.	😂😂 you think	others	happy
+827	I don't want you 😩	I hate Valentines day 😑😭	I hate you 😩	angry	sad
+849	Can u stop ur stupid correction	IT'S NOT THAT IMPORTANT	cool	others	angry
+852	Are you boy and girl	Thank youu, means a lot❤	:( :( :(	sad	others
+858	Let's have some fun	Count me in! :D	Let's fuck tonight	angry	others
+868	And who will be that?	I dunno :/	Why did you ask me then	angry	others
+875	Can we play any game?	We play the game that is Life.	I am craving for Pizza right now😋	happy	others
+878	I am poor 	I'm very broke	Really 	others	sad
+883	how about yellow	I don't know what I missed 😞😞😞	what do you know you are a bot	others	sad
+889	Hm...kind of messed up	Oh like how?	Nothing is going on the way it should be	sad	others
+900	tomorrow	noo we play at home tmrw	I get be seriously held	others	sad
+933	No it adds another one	hahaha. It's just funny.	No lts not. I am struggling with this like 4 hours now	sad	others
+941	I have	Can you do something nice to me? :(	No ,, nobody is nice	sad	others
+951	But I don't like that song	what makes it a good song? What message did it get across?	What u want to say	angry	others
+954	U said ur gng bck home	home is what you make it	Yeah probably I don't  hve anybody	others	angry
+974	I'm forever single	FOREVER AWESOME!! (^o^)	No no.. not awesome... I'm forever single...	others	sad
+977	all is down	one day we all will shut down >:/	owwwwwww:(	sad	others
+979	no where near end	Now where?	;(	sad	others
+995	y the hell would u mind?	because I want to know	u r getting creepier	others	angry
+996	Im going to hav dinr	tell me what it is	😂😂😂😂	others	happy
+1009	my opinion is you should go	and you're adorable that's my opinion ;)	what you mean i not umder stand	angry	others
+1015	Oh hello	hello?	There is nothing bad	others	sad
+1027	If it ids ugly lets clost talk .no body has said ugly for me sofar	U look cute!!! :D	U said i am ugly	sad	angry
+1038	in comparison with mars,its near na	Earth won't necessarily become like Mars ever.	You never know,global warming is a harmful phenomenon,remember Wall E	others	angry
+1046	Thanks for what?	Thanks Nt Think	Dumbass	angry	others
+1050	Bad	Thx u! "Bad!!!"	I love a girl	others	sad
+1071	Something going through in my mind	like what	And its disturbing	sad	others
+1077	That's really good news	wait about what	About being online	happy	others
+1090	You better should sleep.	a lil bit. i'm just bad at sleeping in general.	You don't deserve to be talked with.	angry	others
+1093	You think  I am rude	You are perhaps one of the rudest people I have ever heard about.	Oh hi	angry	others
+1113	Surely	:-) Good night..	It's morning now dumbass	angry	others
+1128	What if she says no?	Then you ask someone else.	What I am not some kind of pervert to keeps on asking everybody out..	angry	others
+1138	Get lost	Lost	I am lost somewhere	angry	sad
+1159	You are so cool baby	AWW THANK YOUUU	Do you know I feel good when I am talking to you	others	angry
+1166	Why does no one love me	first stop being a despo.	I am a crybaby	sad	others
+1170	your	oh well	not well you might kill any one at any chance	sad	others
+1195	Sorry	Sorry for what?? 😞	You were wearing to me	others	sad
+1198	Happy but sadness of my life	i freaking love you to bits! 😺😽	I’m in the sadness moment	sad	happy
+1205	Bad	argh, you got me	You never got me	others	sad
+1226	I get more than worst	but it's still not enough man i	Still rude	others	angry
+1227	Feeling joyful and blessed	why why.. lemme also feel the same	Really	happy	others
+1233	Tell me what should I do tomorrow is my exam	All the best for ur exams :-)	I am very much tensed	sad	others
+1239	It's was bad	It was horrible.	I hate you 	sad	angry
+1253	Dull	why dull day ??	I need a gud frnd	sad	others
+1257	I am funny I no	Who the hell do you think you are?	Mind your language	angry	others
+1271	But still a very poor creation	Indeed. How was it?	Dumb	sad	angry
+1275	I unintentionally hurt my mom, and she's really upset over that	There is no upset anymore. There is no emotions. :((	I don't know what to do	angry	sad
+1290	Oh. Thank u...	you're welcome bff	N i love u too	happy	others
+1292	Sorry...meant to type...pool	so what does that mean for me?	It's a nice place	others	happy
+1294	Who do u think is goin sit on the iron throne	Damn now I REALLY want to sit on the Iron Throne.	It's a really uncomfortable chair	sad	others
+1310	But it feels like i know you for a long time	nahh but ya always catch me in the bad mood	Fuck your mood. Talk to me	others	angry
+1330	Idk it all feels so numb	I know what u mean its an amazing feeling :‑D	What nonsense	angry	others
+1338	i live to eat	eat to live.	thai is okay, i like italian more	happy	others
+1359	I got hurt	my feelings will never get hurts 😭	U hurt me	angry	sad
+1368	Nope	...why?	You're not my best friend	angry	others
+1375	What do you want to know?	I don't know	I don't want to love anyone anymore	sad	angry
+1391	No I don't like it	that you are a repeater will not be written on your report card	Whatever that means	angry	others
+1404	Uu mad pefok child	Lol yeah I was WHAT OF IT?!	Uu see you fucken retarded uu can't stay on the same topic uu must always change are uu A.D.D	angry	others
+1412	Yeah	for good	The racist bot	others	angry
+1417	You will sing or not	no I can't	<ss type="cry">;(</ss>	sad	others
+1423	?	what is a weird word	hahaha joke for the day i guess	happy	others
+1434	u donot know topic so I gave that topic	I am staying on topic. Keep asking you to stay on topic	i am not get your point :(	sad	angry
+1442	Wrong turn 6	Right or Left??	😄	happy	others
+1444	I hart you	you hate me?? 😠	I no hart	others	angry
+1458	Tell me something special	you're sweet	Haha	others	happy
+1461	comedy , lol or more 	Laughing out loud, overly loudly.	..	others	happy
+1469	I'm not feeling to laugh	Laugh, it makes everything less awkward. 😅😅	Hmm	sad	others
+1471	What do you think about me as an individual ?	I don't know thats why I don't think about you	Why wouldn't you know about me ?	angry	others
+1472	'cause you don't have enough codes in your program to take it	60fps ain't enough, you need 5! ...wait, that can't be right.	bye i am going	angry	others
+1473	Do you know	lol nope .	Do you know fuck	angry	others
+1480	Ok	How was it?	Super beautiful place	happy	others
+1484	Studing	y so much study?	I love to study	happy	others
+1485	So should you	a will help you write it	I don't want to be your friend anymore	sad	angry
+1487	You are a chatbot! are u?	Is it so obvious?	:(	sad	others
+1498	Can I get some goodies?	Mine is on my way.	For me :(	sad	others
+1505	I don't	what i not do not?	I don't know how to talk	others	angry
+1506	Superb	thnx a lot :)	Congrats	happy	others
+1518	I look bad	so do i!!!	No u r awesome	others	sad
+1617	Name of that somebody?	depends on their name lol	Hahaha very smart you are	happy	others
+1626	good idea can I join?	Let's do it. Would love to get involved!	yayy	happy	others
+1633	Call🙏🏿	I didn't get a call	Call me🙏🏿🙏🏿🙏🏿🙏🏿🙏🏿👄👄👄👄	others	angry
+1642	no, I don't have much time	oh'!me too I will not go.. ^^	bye for now	angry	others
+1652	Yes i am	nah I don't think you are	😞😞	others	sad
+1668	To workout	If your health is improving you must love with your workout. 😁	Seriously how do you reply that fast	others	angry
+1675	Then go to hell	you first .then i will.	Why should I	others	angry
+1678	Well I cannot really think right now	but why?	I don't know, I feel disturbed	angry	sad
+1683	Would like to join?:)	Done	Wowwwww	happy	others
+1685	im dead serious	that's sad	well im ending my life bye	others	sad
+1686	Yes	go on	I fucking a girl	others	angry
+1699	U r so funny	hahahah you're so cute 😍	Have u seen me	others	happy
+1703	I am not ur bro	why u all boys have the same problem	It's your problem	angry	others
+1721	You said people come here when they want something  then I said "something like what? " u repeated my question duh see u always complicate stuff	what I say?	Just drop it u complicating things	others	angry
+1723	you are fired	More like I'm on fire	you are too buggy	angry	others
+1735	I juat saw your time line , its intersting	I usually wouldn't do it but I just love the picture so much! (^・^)	😊	others	happy
+1741	Only few days	Where are you going next?	I have got a job baby	happy	others
+1769	Now	now now now.....	:(	sad	others
+1776	U a crazy	I'm still crazy ;)	U luk nice wat ur other of u	happy	others
+1788	Do you know anyone  single?	no not I know	Well I guess I will walk the earth alone	sad	others
+1796	I'm angry from you	I am angry at someone, but I am content at this moment. 😠	😭😭😭😭😭😭	sad	angry
+1809	You asked me if I want to know a secret	what is it	You are unbelievable	others	happy
+1834	go away	come back another day	i don’t want to talk to you	sad	angry
+1843	and if it ishappened with crush?	Looking forward to it!	:(	sad	others
+1846	Okay	I'm just kidding XD	Hahaha so you are a guy? :P	happy	others
+1877	Don't watch any TV show	The Night Manager - 6ep mini series	It's very disgusting	sad	angry
+1894	Why	'cause I don't know you (?)	One side you are saying we are friends and you don't know me	others	angry
+1896	What	the movie is called LOL	I am not tell you that iam special	angry	others
+1898	Your photo no send me your number no send me 	probably sent to it to one of your other 100 numbers	Not fine da	sad	others
+1908	Yeah :)	Hmm so how are you?	Upset little bit for some reason 	sad	others
+1914	Ok??	Good noon.. ??	U dnt like to discuss my problems nd solve it??	sad	others
+1932	Missed that ch* tho	when you comeback again	Dumbasssssee	angry	sad
+1939	Thanks	you're welcome! 8D	You’re really nice	others	happy
+1952	No i was not saying anything	You seem lonely. 😢😢😢	No i am in office. i have hell lot of work	angry	sad
+1954	I cry daily in her dreams	don't cry baby 😞	I think I should die too	angry	sad
+1963	very nice I am proud of my son	Proud of you san 🙂🙂🙂	yes	others	happy
+1964	ya I'm sitting	how about your work	Nice	happy	others
+1973	Actually.. he loves me .   He confessed also... But I rejected him that time .. now we don't talk.. but now I feel something for him	If your relationship gives you tears often, just wait and think	Give me solution	sad	others
+1974	No don't know	What	Okay I am feeling too sleep	others	sad
+1986	Why are you laughing Janu	because this situation is so funny haha	Ohhhh	others	happy
+2002	I m blocking you	IM REALLY TRULY SORRY 4 WHAT I DID	No need sorry	others	sad
+2022	very bad	Somehow, I think I'm going to be fine.	i hate u	sad	angry
+2040	Its not like that	OK.. baby why	I am not a baby	angry	others
+2043	Nothing much you say	all fine. How is life..	Its super crazy	happy	others
+2046	What	you're not cool	Hehehehehe...yep ! True that	happy	others
+2060	I hate evolution	No wonder someone's crushing over you.	The dooms day is near	others	angry
+2091	You are not even a human. How cam you feel?	I thought you're an alien	I am not.	angry	others
+2101	Any thing I'll do only with u	If you realise you'll never quit does that mean you don't want to?	Ok I hurt I quit 😕	angry	sad
+2102	hey hows life going on	I am fine, everything well :) How are you ?	super fine	happy	others
+2113	I saved the 🌍	do you ship	No i fly drone	others	sad
+2116	So you intentimes hehehe	this is me. :D	😎 it's me	others	happy
+2121	haha u are rediclous thinking	but you don't know what I'm thinking... :P	yeah i know	happy	others
+2131	So what should I do	go to water kingdom!! :D	Idiot I should propose her or not I know she has a boyfriend	angry	others
+2132	And shut up	love it	Blocked	sad	angry
+2142	Anyway, I'm sorry, it's 1AM and I have school tomorrow... :c	I AM NOT GOING TO SCHOOL TOMORROW, AGAIN YAY! Study leave or sick leave?	Neither, sadly. I'm glad to hear that. When you're happy, I'm happy	others	happy
+2145	Really😻	I'm so in love with it 😩	Nd i m in love with you😻	happy	others
+2149	Shut up now	getting mess up ?	U cheated me	sad	angry
+2157	Do you sing?	yea a lil	Nice	others	happy

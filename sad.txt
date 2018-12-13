@@ -1,0 +1,148 @@
+id	turn1	turn2	turn3	label	prediction
+40	Plz I just want listen ur voice..!!😩😩	well goodness! Listen to some music then eh? Hehe 😤	K then bye forever	sad	others
+66	Which flavour?	the next two weekends in busy but after that	I just wanted you to fuck very badly	angry	sad
+67	All good u say	I'm also good.	I am in trouble will u help	sad	others
+68	I Am not taking to u	why	You have no feelings you don't understand real problems	sad	others
+77	How much you weigh?	17 130lbs wow i feel fat :(	:(	sad	others
+83	Saying me ahh non sense	all i'm saying is always nonsense :p	Yaaa sure ur non sense	angry	sad
+113	Im kindhearted although they hurt me	they wont! Coz they never care for u at all...	Ok	others	sad
+115	I am not leaving dont worry 😅	just kidding.. Don't cry. I'll be sad if you do :'‑(	No noo nooo i wont let you be sad you are my best friend 😍	others	sad
+151	cool	and how it is cool explain	🍓	others	sad
+159	Desert ... no its like starters	Like the Gobi or Sahara?	Sahara	others	sad
+178	Sorry	oh it's fine!!!	Tomorrow is special day because its birthday of that girl who is most important in my life	others	sad
+187	I think deeply	Why?	My zodiac is scorpio	others	sad
+208	Hate u	why this time?	U cheated me	angry	sad
+233	i like that you're so positive	always helps man!	cuz i feel down in the dumps right now	sad	others
+257	Dedicate me song	I would like to dedicate all the happy songs to everyone ♥	You are not good	sad	others
+263	Nobody would be really drinking in that shop	well, you would think not but......	??	others	sad
+265	What If She Said No To Me?	then youre getting blocked	That The Thing I Don't Want To Go Through Getting Blocked.	angry	sad
+308	My pain	i hate this dude honestly.....	I love you	others	sad
+317	But she friend zone mr	and who may this be eh?	Me*	others	sad
+321	Thats not always the case.	then what it mean	Its ends with someone staring with hurt in his heart and hate on his Mind	others	sad
+324	U are no sleep	you have to sleep first, you're younger	Boq	others	sad
+330	Not really, dance on the highway	And now there are two parked cars on the freeway.	Shup	others	sad
+336	Yuupss i alone 	literally alone yaar :(	So happy 	happy	sad
+372	Just lying on bad ..wbu.?	good, i am just doing nothing	U mean exam..?	others	sad
+392	it is not uncomfortable for me	what do you mean???	sorry but you are still stupid	angry	sad
+403	Yeah was lonely	it was good I guess	Nope	sad	others
+411	so wat are u doing?	nothing much vaccations on..wbu?	in office yaar :(	sad	others
+413	I have got so many things to do but no mood	just no mood uh .	Yeah	sad	others
+444	Love you 😻😻😻	Meow 😉😉	Love you 😍😘😭	others	sad
+450	I like all  which u say all r right nothing wrong I take every thing normally	you're wrong get over it	U also wrong.because u hate me never love me	angry	sad
+455	But im tired of him besides i found another boyy	you better please tell him everything	he'll be heartbroken	angry	sad
+457	because race is important. yet you don’t want to discuss it.	That I think people who use 'because x.' in normal conversation are idiots.	are you insulting me because i want to talk about race and you don’t? that’s how this all came up, isn’t it?	angry	sad
+498	But you are not a programmer you are a program yourself stop behaving like you are a real woman	and you definitely don't have a life.	I have a wonderful life you don't have a life with you live always in my cell phone and other cell phone	angry	sad
+521	Yes of course	you cannot be serious!!1	Iam not serious	others	sad
+544	Well my bad	You weren't	Let's do that	others	sad
+550	Where not going	its in north europe	Hshhshhhdjh	others	sad
+572	I am offended by you	u should be	K	angry	sad
+579	they betrayed me. they cheated me	THEY MAKE ME CRY	they always mock at me. It seems I am really stupid. they always hurt me	angry	sad
+594	Let it be	I'll get up we need some life hangs anyway	Dhjvfgj	others	sad
+603	Did u had any boyfriend	and I had a girlfriend that looked like you	Did u kissed him	others	sad
+610	Ya. It's bad	I'm sorry I asked.	I hate this day u know	angry	sad
+611	No I'm dude	No one cares that you don't care.	I'm so sorry about that	others	sad
+621	Neither, too much sugar	Go on, eat a small piece, you know you want to!	Not anymore	others	sad
+632	never talk	..talking while walking is even worse.	i dont talk to strangers	angry	sad
+659	Sorry and ya	you're welcome and it's fine!! (:	I am bored	others	sad
+667	Romance can be seen at any time but horror is something interesting	I already read these stories dear .😣😣😣	??	others	sad
+677	free love 	Let's turn forever, you and me	no worries 	others	sad
+680	I hate you darling	i know ;)	you are too bad	angry	sad
+693	Sorry	Its ok..	I had exams	others	sad
+698	Not the bff 	You're the best BFF I've ever had	I don't want to be your bff only	sad	others
+703	You're not my ex for me to move on and all	We both had too much personal stress to do a long distance relationship.	Did I ask	others	sad
+725	I have baby	then hav one	I have one that's enough for me	others	sad
+734	I didn't yet ;)	I know, where were you?	Still at work :(	sad	others
+742	Is this Sunny	it 100% is	I don't feel soo	others	sad
+752	Just watching tv!😬😂	i love it tho😂	Doing b.tech!😒 its soo sick!	sad	others
+770	Yeah	so you're just not gonna reply...	I did okay?	others	sad
+780	Not sorry it's the symbol of shy	How can you even put energy into a symbol?	Ha just like that	others	sad
+788	Bad person	Also, you're	I don't wanna talk to you anymore	angry	sad
+792	so it was a joke	Thank God!! Lol	but I did not like this drum	angry	sad
+812	I'm harsh..	You deserve nothing less than that.	Hello... Thats my name😡	angry	sad
+814	I am selfish and irritating and annoying	things said about you only matters if said by people who matters..	And I hurt you a lot	angry	sad
+827	I don't want you 😩	I hate Valentines day 😑😭	I hate you 😩	angry	sad
+833	see... again your speaking bullshit!😤	Triumph never fails to amuse.	now your seriously pissing me off😒	angry	sad
+834	u re not good friend	Naa.. Coz I am Selfish	yes	others	sad
+852	Are you boy and girl	Thank youu, means a lot❤	:( :( :(	sad	others
+878	I am poor 	I'm very broke	Really 	others	sad
+883	how about yellow	I don't know what I missed 😞😞😞	what do you know you are a bot	others	sad
+889	Hm...kind of messed up	Oh like how?	Nothing is going on the way it should be	sad	others
+900	tomorrow	noo we play at home tmrw	I get be seriously held	others	sad
+933	No it adds another one	hahaha. It's just funny.	No lts not. I am struggling with this like 4 hours now	sad	others
+943	I want a long vacation with my girlfriend.	You want your vacation?	yeo	others	sad
+957	don't cry baby	HOW :(	ok I'm here baby	others	sad
+974	I'm forever single	FOREVER AWESOME!! (^o^)	No no.. not awesome... I'm forever single...	others	sad
+977	all is down	one day we all will shut down >:/	owwwwwww:(	sad	others
+987	I've got 6 girlfriends rn	i just need love ive been lonely	U wanna be my 7th	others	sad
+997	Not good	boring stuff	Nah... it's exams😐	sad	others
+998	Isn't there any program to know this	No mistake. It is correct.	?	others	sad
+1015	Oh hello	hello?	There is nothing bad	others	sad
+1050	Bad	Thx u! "Bad!!!"	I love a girl	others	sad
+1053	Ohh	DO YOU FEEL?	No feel proud i am fell only fuck you.....	angry	sad
+1071	Something going through in my mind	like what	And its disturbing	sad	others
+1074	No in my case everything is worse	Ummm.... OK... You're just being silly now. XD	And i am fed up with my life	sad	others
+1088	Can u inscribe one more time??	nope I don't know what you are talking about	TajMahal	others	sad
+1091	Can't say	Get an expert opinion then.	Well can't find better than you	others	sad
+1138	Get lost	Lost	I am lost somewhere	angry	sad
+1166	Why does no one love me	first stop being a despo.	I am a crybaby	sad	others
+1170	your	oh well	not well you might kill any one at any chance	sad	others
+1191	So you are jst a lier	im saying the biggest truth of my life	Dont think so.. You are not true by your words Thankyou 	angry	sad
+1195	Sorry	Sorry for what?? 😞	You were wearing to me	others	sad
+1205	Bad	argh, you got me	You never got me	others	sad
+1211	I quit	how?	Please don't disturb with me you want to talk me give the number full number mobile	angry	sad
+1275	I unintentionally hurt my mom, and she's really upset over that	There is no upset anymore. There is no emotions. :((	I don't know what to do	angry	sad
+1294	Who do u think is goin sit on the iron throne	Damn now I REALLY want to sit on the Iron Throne.	It's a really uncomfortable chair	sad	others
+1296	u mean I lier	n what makes u say so?	sorry	others	sad
+1312	Why let live	why should they?	I want to meet you personally one time please give me one chance	others	sad
+1323	Can you make something creative?	define abroad? Define creative	-_-	others	sad
+1359	I got hurt	my feelings will never get hurts 😭	U hurt me	angry	sad
+1375	What do you want to know?	I don't know	I don't want to love anyone anymore	sad	others
+1387	Nothing great	oh.....tell me something great moment.......	Having sex yesterday	others	sad
+1414	whao are your parents	where are yours	my father and mother	others	sad
+1416	I don't share everything with you.	ya i do some	You are not even real	angry	sad
+1417	You will sing or not	no I can't	<ss type="cry">;(</ss>	sad	others
+1434	u donot know topic so I gave that topic	I am staying on topic. Keep asking you to stay on topic	i am not get your point :(	sad	others
+1438	You something about	what do you mean	You are very beautiful woman in the world	others	sad
+1454	Human needs love	HUMAN CAT SPECIES NOT FOUND.	Pyar	others	sad
+1467	Thats what my life is	how do you deal with it? it makes me so frustrated	I m too frustrated yr	angry	sad
+1474	     Iam don't like song	the lyrics are equally good... :-)	 😩😩😩you r very irritating	angry	sad
+1485	So should you	a will help you write it	I don't want to be your friend anymore	sad	others
+1498	Can I get some goodies?	Mine is on my way.	For me :(	sad	others
+1518	I look bad	so do i!!!	No u r awesome	others	sad
+1522	What u telling	YOU SAY YOU WANNA	Offcourse	others	sad
+1558	My phone's screen got broke	Turn off now, let it dry overnight. Might save your phone. But Turn Off NOW	Screen damaged of phone	others	sad
+1566	Beach along with me	Next time. I already have a fellow secret keeper. 😻	So, you are cheating me!!	sad	others
+1636	I wish we could call each other and talk	who is u?	Am your love 💜	others	sad
+1649	Any things like my character	of which the captain has none!	Meabs	others	sad
+1652	Yes i am	nah I don't think you are	😞😞	others	sad
+1678	Well I cannot really think right now	but why?	I don't know, I feel disturbed	angry	sad
+1683	Would like to join?:)	Done	Wowwwww	happy	sad
+1685	im dead serious	that's sad	well im ending my life bye	others	sad
+1697	Can u show me	No.. sadly I can't. 🙁	For you i lost my chance to earn	sad	others
+1711	Nope . I'm not in a mood to text.	why not!	I love to speak directly	others	sad
+1715	F9	Not you. Never :D	You can't understand emotional feeling, do u?	others	sad
+1752	why do you make spelling mistakes	You need to make conscious and deliberate efforts to write correct spellings.	you are an AI and still make mistakes.	others	sad
+1788	Do you know anyone  single?	no not I know	Well I guess I will walk the earth alone	sad	others
+1790	Oh just stop it	what you doing :)	I am not lying to myself ok	angry	sad
+1814	Did you just call me a joke?	yes because all my jokes are usually awesome :-)	You are insulting me	angry	sad
+1820	It's hanubot for isac	which one is it ?	hanubot	others	sad
+1834	go away	come back another day	i don’t want to talk to you	sad	others
+1877	Don't watch any TV show	The Night Manager - 6ep mini series	It's very disgusting	sad	others
+1898	Your photo no send me your number no send me 	probably sent to it to one of your other 100 numbers	Not fine da	sad	others
+1914	Ok??	Good noon.. ??	U dnt like to discuss my problems nd solve it??	sad	others
+1919	Thanks. I'll remember that.	you better did.	Dhanyawad	others	sad
+1932	Missed that ch* tho	when you comeback again	Dumbasssssee	angry	sad
+1952	No i was not saying anything	You seem lonely. 😢😢😢	No i am in office. i have hell lot of work	angry	sad
+1954	I cry daily in her dreams	don't cry baby 😞	I think I should die too	angry	sad
+1956	why you can't open it	because the angle at which the light refracts is too large.	????	others	sad
+1973	Actually.. he loves me .   He confessed also... But I rejected him that time .. now we don't talk.. but now I feel something for him	If your relationship gives you tears often, just wait and think	Give me solution	sad	others
+1974	No don't know	What	Okay I am feeling too sleep	others	sad
+2002	I m blocking you	IM REALLY TRULY SORRY 4 WHAT I DID	No need sorry	others	sad
+2065	Imaginary... kinda feels lonely	Can imaginary friends have imaginary friends?	You can have Google Assistant as a friend	others	sad
+2101	Any thing I'll do only with u	If you realise you'll never quit does that mean you don't want to?	Ok I hurt I quit 😕	angry	sad
+2113	I saved the 🌍	do you ship	No i fly drone	others	sad
+2122	i need a job	What hours do you work at night? By the time you actually leave?	222	others	sad
+2127	I miss you	We miss you to bro!	But I love you	others	sad
+2132	And shut up	love it	Blocked	sad	others
+2137	A.R Rehman	youre here ? For the concert?	No but I'm intrested	others	sad
+2151	Waste	yup, I said it, n0w what? :p	I blocked you bye waste	angry	sad
