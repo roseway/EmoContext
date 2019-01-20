@@ -26,8 +26,7 @@ def lstm(embeddingMatrix):
                                trainable=False)
     model_lstm = Sequential()
     model_lstm.add(embeddingLayer)
-    model_lstm.add(LSTM(LSTM_DIM))
-    model_lstm.add(Dropout(DROPOUT))
+    model_lstm.add(LSTM(LSTM_DIM, dropout=DROPOUT))
     model_lstm.add(Dense(NUM_CLASSES, activation='softmax'))
     model_lstm.compile(loss='categorical_crossentropy',
                        optimizer='adam',
@@ -51,13 +50,13 @@ def cnn(embeddingMatrix):
 
     model_conv = Sequential()
     model_conv.add(embeddingLayer)
-    model_conv.add(Dropout(0.2))
+    model_conv.add(Dropout(DROPOUT))
     model_conv.add(Conv1D(64, 5, activation='relu'))
-    model_conv.add(Dropout(0.2))
+    model_conv.add(Dropout(DROPOUT))
     model_conv.add(MaxPooling1D(pool_size=4))
-    model_conv.add(Flatten())
-    # model_conv.add(LSTM(64))
-    model_conv.add(Dense(4, activation='softmax'))
+    #model_conv.add(Flatten())
+    model_conv.add(LSTM(64))
+    model_conv.add(Dense(NUM_CLASSES, activation='softmax'))
     model_conv.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
     model_conv.summary()
     return model_conv
@@ -79,7 +78,7 @@ def main():
     BATCH_SIZE = 200
     LSTM_DIM = 128
     DROPOUT = 0.2
-    NUM_EPOCHS = 50
+    NUM_EPOCHS = 30
 
     print("Processing training data...")
     trainIndices, trainTexts, labels = preprocessData(trainDataPath, mode="train")
@@ -111,14 +110,14 @@ def main():
     print(embeddingMatrix.shape)
 
     model = cnn(embeddingMatrix)
-    checkpoint = ModelCheckpoint('cnn.h5', monitor='val_acc', verbose=1, save_best_only=True,
+    checkpoint = ModelCheckpoint('cnn+lstm.h5', monitor='val_acc', verbose=1, save_best_only=True,
                                  mode='max')
     callbacks_list = [checkpoint]
     # Fit the model
     model.fit(data, labels, epochs=NUM_EPOCHS, batch_size=BATCH_SIZE, validation_data=(devData, devlabels),
               callbacks=callbacks_list)
 
-    model = load_model("cnn.h5")
+    model = load_model("cnn+lstm.h5")
     devpredictions = model.predict(devData, batch_size=BATCH_SIZE)
     accuracy, microPrecision, microRecall, microF1 = getMetrics(devpredictions, devlabels)
 

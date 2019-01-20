@@ -1,10 +1,13 @@
+baseline: Accuracy : 0.8897, Micro Precision : 0.5934, Micro Recall : 0.6930, Micro F1 : 0.6394
+
+
 CNN :Accuracy : 0.8976, Micro Precision : 0.6288, Micro Recall : 0.7434, Micro F1 : 0.6813
 CNN+LSTM: Accuracy : 0.8962, Micro Precision : 0.6121, Micro Recall : 0.7794, Micro F1 : 0.6857
-LSTM: Accuracy : 0.8998, Micro Precision : 0.6257, Micro Recall : 0.7698, Micro F1 : 0.6903
+LSTM: Accuracy : 0.8980, Micro Precision : 0.6180, Micro Recall : 0.7914, Micro F1 : 0.6940
 angry: Accuracy : 0.9510, Micro Precision : 0.5296, Micro Recall : 0.8933, Micro F1 : 0.6650
 sad: Accuracy : 0.9619, Micro Precision : 0.5581, Micro Recall : 0.7680, Micro F1 : 0.6465
-happy: Accuracy : 0.9423, Micro Precision : 0.4653, Micro Recall : 0.8028, Micro F1 : 0.5891
+Accuracy : 0.9441, Micro Precision : 0.4727, Micro Recall : 0.7324, Micro F1 : 0.5746
 
+Accuracy : 0.9172, Micro Precision : 0.7007, Micro Recall : 0.7578, Micro F1 : 0.7281
 
-ensemble: Accuracy : 0.9165, Micro Precision : 0.7116, Micro Recall : 0.7218, Micro F1 : 0.7167
 

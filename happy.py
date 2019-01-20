@@ -119,7 +119,7 @@ def main():
     BATCH_SIZE = 200
     LSTM_DIM = 128
     DROPOUT = 0.2
-    NUM_EPOCHS = 50
+    NUM_EPOCHS = 30
 
     print("Processing training data...")
     trainIndices, trainTexts, labels = preprocessData(trainDataPath, mode="train")
@@ -161,6 +161,19 @@ def main():
     model = load_model("happy.h5")
     devpredictions = model.predict(devData, batch_size=BATCH_SIZE)
     accuracy, microPrecision, microRecall, microF1 = getMetrics(devpredictions, devlabels)
+    
+    predictions = devpredictions.argmax(axis=1)
+
+    wrong=[]
+    with io.open('happy.txt', "w", encoding="utf8") as fout:
+        fout.write('\t'.join(["id", "turn1", "turn2", "turn3", "label", "prediction"]) + '\n')        
+        with io.open(devDataPath, encoding="utf8") as fin:
+            fin.readline()
+            for lineNum, line in enumerate(fin):
+                line=line.strip().split('\t')
+                if emotion2label[line[-1]]!=predictions[lineNum]:
+                    fout.write('\t'.join(line) + '\t')
+                    fout.write(label2emotion[predictions[lineNum]] + '\n')
 
 
 if __name__ == '__main__':
